@@ -1,5 +1,7 @@
 # Typed Xml2json  [![Build Status](https://travis-ci.org/types/npm-xml2json.svg?branch=master)](https://travis-ci.org/types/npm-xml2json)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-xml2json.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`xml2json`](git://github.com/buglabs/node-xml2json.git)
 
